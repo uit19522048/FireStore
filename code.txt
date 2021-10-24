@@ -1,0 +1,15 @@
+{/* <Text>Email</Text>
+          <TextInput 
+            style={styles.InputText}
+            placeholder="PV@gmail.com"
+            value={this.state.email}
+            onChangeText = {(email) => this.setState({email})}
+          />
+          <Text>Password</Text>
+          <TextInput 
+            style={styles.InputText}
+            placeholder="********"
+            value={this.state.password}
+            onChangeText = {(password) => this.setState({password})}
+          />
+          <Button title="Dang nhap" onPress={() => this.DangNhap()} /> */}
